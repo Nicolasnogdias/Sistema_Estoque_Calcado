@@ -1,11 +1,3 @@
-Com certeza! Vou te passar um passo a passo **amplo e detalhado** para criar um **sistema web de controle de estoque para uma loja pequena de calçados femininos** — do planejamento até a entrega. Vou focar numa stack **Java + Spring Boot para backend** e **HTML/CSS + JavaScript para frontend**, mas com explicações que servem para outras tecnologias também.
-
----
-
-# Passo a passo para criar o sistema web de controle de estoque
-
----
-
 ## 1. **Planejamento e levantamento de requisitos**
 
 ### 1.1 Entenda o que o sistema deve fazer
@@ -155,7 +147,3 @@ Com certeza! Vou te passar um passo a passo **amplo e detalhado** para criar um 
 * Se for iniciante, faça tudo em etapas, um passo por vez
 * Use fóruns, Stack Overflow e comunidades para tirar dúvidas
 * Foque no MVP (mínimo produto viável) para entregar logo e evoluir depois
-
----
-
-Quer que eu te ajude a começar pelo backend, frontend ou com a modelagem do banco? Posso montar um código base pra você e ir te guiando passo a passo!
